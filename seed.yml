@@ -1,0 +1,7 @@
+---
+  name: express-session-mongodb
+  description: A persistent session store for Express backed by MongoDb
+  version: 0.1.0
+  dependencies:
+    - express >= 0.8.0
+    - mongodb-native >= 0.6.7
